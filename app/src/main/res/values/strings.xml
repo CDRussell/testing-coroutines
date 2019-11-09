@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Testing Coroutines</string>
+    <string name="heavy_operation_suspend">Suspend Function</string>
+    <string name="ready">Press Button To Do Heavy Lifting</string>
+    <string name="calculating">Calculating...</string>
+    <string name="result">Result: %s</string>
+</resources>
